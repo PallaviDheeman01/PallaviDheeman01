@@ -19,6 +19,18 @@ I'm Pallavi, a technology enthusiast and working professional passionate about s
 - 🌱 Always eager to learn new technologies and expand my technical knowledge.
 - 🎯 Currently exploring new opportunities to grow professionally and contribute to impactful projects.
 
+## 💼 Professional Experience
+**AI Software Developer | Amdocs**
+- Designed and optimized SQL queries using Snowflake and Oracle.
+- Managed 50+ production Databricks jobs, processing 1M+ records daily through scalable ETL pipelines.
+- Worked on network data processing using AWS.
+- Developed ETL workflows to load data from staging to target tables and implemented data validation for 20+ jobs.
+- Monitored production workflows processing 2M+ records daily.
+- Developed backend automation using Python and Linux Shell Scripting.
+- Validated REST APIs using Postman and automated operational workflows.
+- Contributed to backend application development using Java, XML and RESTful services.
+- Supported CI/CD pipelines using Jenkins and managed version control through Git and GitHub.
+
 ## 💼 What I'm Currently Working On & Exploring
 
 - 🔭 I’m currently working on software development, data engineering and database-related solutions.
